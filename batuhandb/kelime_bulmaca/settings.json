@@ -1,0 +1,159 @@
+{
+  "game_bool": [
+    {
+      "guild_id": "707597360703733819",
+      "game_bool": "true"
+    }
+  ],
+  "channels": [
+    {
+      "guild_id": "707597360703733819",
+      "channel_id": "776726474585014322"
+    }
+  ],
+  "son_kelime": [
+    {
+      "guild_id": "707597360703733819",
+      "son_kelime": "taraf",
+      "son_harf": "f"
+    }
+  ],
+  "son_kelime_yazan": [
+    {
+      "guild_id": "707597360703733819",
+      "son_kelime_yazan": "689795786669948940"
+    }
+  ],
+  "puanlar": [
+    {
+      "guild_id": "707597360703733819",
+      "puanlar": [
+        {
+          "client_id": "267330075949531137",
+          "puan": 75
+        },
+        {
+          "client_id": "787310482435473459",
+          "puan": 36
+        },
+        {
+          "client_id": "918861095677095997",
+          "puan": 3
+        },
+        {
+          "client_id": "730932676848254997",
+          "puan": 3
+        },
+        {
+          "client_id": "840243569268097024",
+          "puan": 3
+        },
+        {
+          "client_id": "689795786669948940",
+          "puan": 75
+        },
+        {
+          "client_id": "599667274932158484",
+          "puan": 81
+        }
+      ]
+    }
+  ],
+  "kullanilan_kelimeler_guilds": [
+    {
+      "guild_id": "707597360703733819",
+      "kullanilan_kelimeler": [
+        "kazak",
+        "kalın",
+        "nane",
+        "elma",
+        "anakonda",
+        "araba",
+        "adam",
+        "makyaj",
+        "jandarma",
+        "amele",
+        "elif",
+        "fos",
+        "ses",
+        "sessiz",
+        "zalim",
+        "mal",
+        "lan",
+        "nene",
+        "elektrik",
+        "kelime",
+        "esnaf",
+        "felek",
+        "keman",
+        "nesne",
+        "erotik",
+        "kestane",
+        "emlak",
+        "kasap",
+        "para",
+        "aşk",
+        "kaşar",
+        "rakam",
+        "malik",
+        "kereste",
+        "estetik",
+        "karadeniz",
+        "zam",
+        "meme",
+        "emmek",
+        "keyif",
+        "fesat",
+        "tortu",
+        "ulus",
+        "saksı",
+        "ıslak",
+        "kek",
+        "kelebek",
+        "kuru",
+        "uzak",
+        "kanal",
+        "lale",
+        "emanet",
+        "telaffuz",
+        "zayıf",
+        "fakir",
+        "roka",
+        "anne",
+        "ereksiyon",
+        "nem",
+        "moruk",
+        "korku",
+        "umut",
+        "taş",
+        "şelale",
+        "esnemek",
+        "kelek",
+        "kabus",
+        "salak",
+        "kol",
+        "lamba",
+        "ameliyat",
+        "tokat",
+        "taarruz",
+        "zürafa",
+        "asfalt",
+        "telefon",
+        "nasıl",
+        "leylek",
+        "kalıp",
+        "pekmez",
+        "ziya",
+        "ampirik",
+        "kolon",
+        "nah",
+        "hapşırma",
+        "afiyet",
+        "tarife",
+        "emtia",
+        "armut",
+        "taraf"
+      ]
+    }
+  ]
+}
